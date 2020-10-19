@@ -1,0 +1,13 @@
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.exe
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.deps.json
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.dll
+C:\Users\Coline\Wild\C#\quests\List\List\bin\Debug\netcoreapp3.1\List.pdb
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.dll
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.pdb
+C:\Users\Coline\Wild\C#\quests\List\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
