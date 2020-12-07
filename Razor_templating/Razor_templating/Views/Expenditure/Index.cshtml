@@ -1,0 +1,49 @@
+﻿@model IEnumerable<ExpenditureModel>
+
+
+<HTML>
+<body>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nom
+                </th>
+                <th>
+                    Date
+                </th>
+                <th>
+                    Prix
+                </th>
+            </tr>
+        </thead>
+        
+
+        @foreach (var expenditures in Model)
+        {
+
+            <tr>
+                <td>
+                    @expenditures.Name
+                </td>
+                <td>
+                    @expenditures.Date
+                </td>
+                <td>
+                    @expenditures.Price
+                </td>
+            </tr>                            
+        }
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="table-active">
+            @Model.Sum(e => e.Price)
+        </td>
+
+    </tr>
+
+    </table>
+</body>
+</HTML>
