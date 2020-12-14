@@ -1,0 +1,22 @@
+﻿@model IEnumerable<PlanetsModel>
+
+<div class="text-center">
+    <h2 class="display-4">Les planètes</h2>
+    <div class="container">
+
+        @foreach (var planetSelected in Model)
+        {
+
+            <tr>
+                <td>
+                    @planetSelected.Name
+                </td>
+                <td>
+                    @planetSelected.Diameter
+                </td>
+
+            </tr>
+        }
+
+    </div>
+</div>
