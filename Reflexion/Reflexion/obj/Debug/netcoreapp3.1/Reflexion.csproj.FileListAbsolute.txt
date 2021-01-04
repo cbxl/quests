@@ -1,0 +1,13 @@
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.exe
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.deps.json
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.runtimeconfig.json
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.runtimeconfig.dev.json
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.dll
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\bin\Debug\netcoreapp3.1\Reflexion.pdb
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.csprojAssemblyReference.cache
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.AssemblyInfoInputs.cache
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.AssemblyInfo.cs
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.csproj.CoreCompileInputs.cache
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.dll
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.pdb
+C:\Users\colin\Wild\C#\quests\Reflexion\Reflexion\obj\Debug\netcoreapp3.1\Reflexion.genruntimeconfig.cache
