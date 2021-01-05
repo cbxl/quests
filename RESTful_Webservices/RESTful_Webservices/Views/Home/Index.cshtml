@@ -1,1 +1,38 @@
-﻿
+﻿@model IEnumerable<Post>
+
+
+@{
+    ViewData["Title"] = "Blog";
+}
+<div class="container">
+    <form class="my-5 text-center" method="get" src="">
+        <div class="col-4 mb-3 text-center mx-auto">
+            <label for="inputUsers" class="form-label">Saisir le numéro utilisateur</label>
+            <input type="number" id="inputUsers" class="form-control" name="id" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Voir les posts</button>
+    </form>
+
+
+    @{
+        if (Model != null)
+        {
+            
+            foreach (Post post in Model)
+            {
+                <div class="card row m-3 box-shadow">
+                    <div class="m-3">
+                        <p class="font-weight-bold">@post.title</p>
+                        <p>@post.body</p>
+                    </div>
+
+                </div>
+            }
+
+        }
+    }
+
+
+
+
+</div>

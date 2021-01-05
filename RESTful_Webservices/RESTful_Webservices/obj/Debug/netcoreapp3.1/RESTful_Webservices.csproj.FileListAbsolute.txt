@@ -339,8 +339,6 @@ C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\RESTful_Webservices.TagHelpers.output.cache
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\RESTful_Webservices.RazorCoreGenerate.cache
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
@@ -353,5 +351,4 @@ C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\RESTful_Webservices.pdb
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\RESTful_Webservices.genruntimeconfig.cache
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Comment\Index.cshtml.g.cs
-C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Post\Index.cshtml.g.cs
 C:\Users\colin\Wild\C#\quests\RESTful_Webservices\RESTful_Webservices\obj\Debug\netcoreapp3.1\Razor\Views\Photo\Index.cshtml.g.cs
