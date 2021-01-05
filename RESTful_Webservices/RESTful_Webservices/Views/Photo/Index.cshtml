@@ -1,0 +1,36 @@
+﻿@model List<Photo>
+
+
+@{
+    ViewData["Title"] = "Photos";
+}
+<div class="container">
+    <form class="my-5 text-center" method="get" src="">
+        <div class="col-4 mb-3 text-center mx-auto">
+            <label for="inputUsers" class="form-label">Saisir le numéro utilisateur</label>
+            <input type="number" id="inputUsers" class="form-control" name="id" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Voir les photos</button>
+    </form>
+
+
+    @{
+        if (Model != null)
+        {
+            foreach (Photo photo in Model)
+            {
+                <div class="card row m-3 box-shadow">
+                        <div class="m-3">
+                            <p class="font-weight-bold">@photo.title</p>
+                            <img src="@photo.thumbnailUrl"/>
+                        </div>
+                </div>
+            }
+
+        }
+    }
+
+
+
+
+</div>

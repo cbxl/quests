@@ -1,0 +1,38 @@
+﻿@model IList<Comment>
+
+
+@{
+    ViewData["Title"] = "Commentaires";
+}
+<div class="container">
+    <form class="my-5 text-center" method="get" src="">
+        <div class="col-4 mb-3 text-center mx-auto">
+            <label for="inputUsers" class="form-label">Saisir le numéro utilisateur</label>
+            <input type="number" id="inputUsers" class="form-control" name="id" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Voir les commentaires</button>
+    </form>
+
+
+    @{
+        if (Model != null)
+        {
+            foreach (Comment com in Model)
+            {
+                <div class="card row m-3 box-shadow">
+                        <div class="m-3">
+                            <p>@com.body</p>
+                            <p class="font-weight-bold">@com.email</p>
+                            <p class="font-weight-bold">@com.name</p>
+                        </div>
+
+                </div>
+            }
+
+        }
+    }
+
+
+
+
+</div>
